@@ -1,4 +1,5 @@
 👋 About Me
+
 Salutacions, 👋 I'm @SamG05Z, a future network systems administrator currently honing my skills at Institut Pedralbes. While my focus is laser-sharp on the fascinating world of cybersecurity – think of me as a digital knight in shining armor, always ready to defend the network realm – my curiosity doesn't stop there. I'm also diving deep into the realms of containerization (Docker and Kubernetes are my playgrounds, and more like a torture room for the latter...), the vast expanse of cloud computing, the intricate SQL and database administration, the fundamental principles of networking, the art of system administration, and the power of scripting to automate just about anything.
 
 💻 Technical Skills
