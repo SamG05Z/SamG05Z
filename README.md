@@ -60,7 +60,7 @@ I'm always open to collaborating or just chatting about tech.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="150" height="150" alt="LinkedIn" />
   </a>
   <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/a64a307a-1245-4cfe-ae4d-b7ff3f64c1f4" width="300" height="200" alt="mail" />
+    <img src="https://github.com/user-attachments/assets/a64a307a-1245-4cfe-ae4d-b7ff3f64c1f4" width="500" height="300" alt="mail" />
   </a>
 </p>
 
