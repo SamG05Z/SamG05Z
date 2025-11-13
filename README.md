@@ -1,37 +1,67 @@
-👋 **About Me**
+**About Me**
 
-👋 Salut! I'm @SamG05Z.
+👋 Salutacions! I'm @SamG05Z.
 
-I'm a sysadmin and cybersecurity student at Institut Pedralbes in Barcelona, currently in my second year. My main goal is to figure out how to secure and automate networks... preferably before they figure out how to break themselves.
+I'm a **sysadmin & cybersecurity student**.
 
-💻 What I'm working with
+* 💼 **Working:** as a Junior Cloud Practitioner Analyst (as intern at Seidor), I'm diving into AWS, IaaS, and SaaS in a production environment (tickets, monitoring and that stuff).
+* 🎓 **Studying:** I'm in my second year of the ASIX (Sysadmin) & Cybersecurity program at Institut Pedralbes.
+* 🌱 **Learning:** I'm currently focused on containerization (Docker/Kubernetes) and deepening my cloud knowledge.
+* 🛠️ **Tools:** my go-tos are Python and Bash. I'm also comfortable with web tech (HTML/CSS/PHP) and will deal (sigh, and struggle) with PowerShell when needed.
+* 🤝 **Collaboration:** I'm keen to contribute to open-source projects.
 
-My focus is cybersecurity, but I'm diving deep into the tech that makes modern systems tick:
+### 💻 My Tech Stack & Stats
 
-    🚀 Current Obsessions: Containerization (Docker/K8s) and the endless rabbit hole of cloud platforms (especially AWS).
+Here are a few of the technologies I work with:
 
-    🔧 Tools of Choice: I script my life in Python and Bash. I can also build for the web (HTML/CSS/PHP) and will even tolerate PowerShell when a Windows machine looks at me funny.
+<p align="left">
+  <a href="httpsE://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  </a>
+</p>
 
-    🤓 The Core: I'm not just here to use tech; I need to know why it works (or, more often, why it just broke). I'm pulling apart everything if needed.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamG05Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SamG05Z's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamG05Z&layout=compact&theme=tokyonight&hide_border=true" alt="SamG05Z's Top Languages" />
+</p>
 
-🌱 Interests & Collaboration
+### 🚀 My Featured Projects
 
-    Automation is everything. If a task has to be done more than twice, it's getting scripted.
+Here are a couple of projects I'm proud of.
 
-    I'm keen to contribute to open-source projects.
+#### 1. [Project Title]
+* **Repository:** `[Link to your GitHub repo]`
+* **Description:** A brief one-or-two-sentence description of what the project is, what problem it solves, or what it does.
+* **Tech Used:** `Python`, `Docker`, `Bash Scripting`
 
-    I also enjoy translation (CAT/ES/EN).
+#### 2. [Project Title]
+* **Repository:** `[Link to your GitHub repo]`
+* **Description:** A brief one-or-two-sentence description of what the project is, what problem it solves, or what it does.
+* **Tech Used:** `AWS Lambda`, `PHP`, `MySQL`
 
-🤝 Let's Connect
+### 📫 Let's Connect
 
-I'm always open to collaborating with other tech pals. I believe the best solutions come from diverse perspectives... and maybe a little shared frustration over a stubborn bug.
+I'm always open to collaborating or just chatting about tech.
 
-    LinkedIn: @samg05x
+<p align="left">
+  <a href="https://www.linkedin.com/in/samg05x/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-    Email: [samuel.arteagako@proton.me]
-
-⚡ Fun Fact / Origin Story
-
-Pronouns: He/Him
-
-My journey into systems really kicked off out of nowehre, I wasn't really meant to be a sysadmin, it just happened because of some good advises in my tumultuos teenage-era.
+My journey into systems really kicked off out of nowehre, I wasn't really meant to be a sysadmin (but I am happily learning every day), it just happened because of some good advice in my tumultuous teenage-era.
