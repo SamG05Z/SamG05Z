@@ -15,20 +15,20 @@ I'm a **sysadmin & cybersecurity student**.
 Here are a few of the technologies I work with:
 
 <p align="left">
-  <a href="httpsE://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" />
   </a>
 </p>
 
@@ -39,17 +39,17 @@ Here are a few of the technologies I work with:
 
 ### 🚀 My Featured Projects
 
-Here are a couple of projects I'm proud of.
+Here there will be a couple of projects I'm proud of.
 
-#### 1. [Project Title]
-* **Repository:** `[Link to your GitHub repo]`
-* **Description:** A brief one-or-two-sentence description of what the project is, what problem it solves, or what it does.
-* **Tech Used:** `Python`, `Docker`, `Bash Scripting`
+#### 1. [ecommerce-cibermur-inspedralbes]
+* **Repository:** `[https://github.com/SamG05Z/...]`
+* **Description:** an ecommerce for homework.
+* **Tech Used:** `Docker`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`, 
 
-#### 2. [Project Title]
-* **Repository:** `[Link to your GitHub repo]`
-* **Description:** A brief one-or-two-sentence description of what the project is, what problem it solves, or what it does.
-* **Tech Used:** `AWS Lambda`, `PHP`, `MySQL`
+#### 2. [pokédex-inspedralbes]
+* **Repository:** `[https://github.com/SamG05Z/...]`
+* **Description:** a pokédex for homework.
+* **Tech Used:** `JavaScript`, `PHP`, `MySQL`, `HTML`, `CSS`.
 
 ### 📫 Let's Connect
 
@@ -57,7 +57,7 @@ I'm always open to collaborating or just chatting about tech.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samg05x/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
