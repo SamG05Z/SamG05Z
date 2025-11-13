@@ -1,4 +1,4 @@
-**About Me**
+### **About Me**
 
 👋 Salutacions! I'm @SamG05Z.
 
@@ -60,7 +60,7 @@ I'm always open to collaborating or just chatting about tech.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="150" height="150" alt="LinkedIn" />
   </a>
   <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="150" height="80" alt="Email" />
   </a>
 </p>
 
