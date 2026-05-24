@@ -4,9 +4,9 @@
 
 I'm a **sysadmin & cybersecurity student**.
 
-* 💼 **Working:** as a Junior Cloud Practitioner Analyst (as intern at Seidor), I'm diving into AWS, IaaS, and SaaS in a production environment (tickets, monitoring and that stuff).
+* 💼 **Working:** as a Junior Cloud Practitioner Analyst (as intern at Seidor), I'm diving into infrastructure, IaC, and SaaS in a production environment (tickets, monitoring and that stuff).
 * 🎓 **Studying:** I'm in my second year of the ASIX (Sysadmin) & Cybersecurity program at Institut Pedralbes.
-* 🌱 **Learning:** I'm currently focused on containerization (Docker/Kubernetes) and deepening my cloud knowledge.
+* 🌱 **Learning:** I'm currently focused on containerization (Podman/Kubernetes) and deepening my cloud knowledge.
 * 🛠️ **Tools:** my go-tos are Python and Bash. I'm also comfortable with web tech (HTML/CSS/PHP) and will deal (sigh, and struggle) with PowerShell when needed.
 * 🤝 **Collaboration:** I'm keen to contribute to open-source projects.
 
@@ -21,11 +21,14 @@ Here are a few of the technologies I work with:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="120" height="120" alt="Bash" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="120" height="120" alt="AWS" />
+  <a href="https://opentofu.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="120" height="120" alt="OpenTofu" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="120" height="120" alt="Docker" />
+  <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="120" height="120" alt="Ansible" />
+  </a>
+  <a href="https://podman.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width="120" height="120" alt="Podman" />
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="120" height="120" alt="Kubernetes" />
@@ -44,7 +47,7 @@ Here there will be a couple of projects I'm proud of.
 #### 1. [ecommerce-cibermur-inspedralbes]
 * **Repository:** `[https://github.com/SamG05Z/...]`
 * **Description:** an ecommerce for homework.
-* **Tech Used:** `Docker`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`, 
+* **Tech Used:** `Podman`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`
 
 #### 2. [pokédex-inspedralbes]
 * **Repository:** `[https://github.com/SamG05Z/...]`
@@ -60,8 +63,8 @@ I'm always open to collaborating or just chatting about tech.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="150" height="150" alt="LinkedIn" />
   </a>
   <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/a64a307a-1245-4cfe-ae4d-b7ff3f64c1f4" width="400" height="250" alt="mail" />
+    <img src="https://github.com/user-attachments/assets/a64a307a-1245-4cfe-ae4d-b7ff3f64c1f4" height="150" alt="mail" />
   </a>
 </p>
 
-My journey into systems really kicked off out of nowehre, I wasn't really meant to be a sysadmin (but I am happily learning every day), it just happened because of some good advice in my tumultuous teenage-era.
+My journey into systems really kicked off out of nowhere, I wasn't really meant to be a sysadmin (but I am happily learning every day), it just happened because of some good advice in my tumultuous teenage-era.
