@@ -4,8 +4,8 @@
 
 I'm a **sysadmin & cybersecurity student**.
 
-* 💼 **Working:** as a Junior Cloud Practitioner Analyst (as intern at Seidor), I'm diving into infrastructure, IaC, and SaaS in a production environment (tickets, monitoring and that stuff).
-* 🎓 **Studying:** I'm in my second year of the ASIX (Sysadmin) & Cybersecurity program at Institut Pedralbes.
+* 💼 **Not Working right now:** considering diving into infrastructure, IaC, and basically EaC.
+* 🎓 **Just Finished Studying:** I'm just completed my ASIX (Sysadmin) & Cybersecurity program at Institut Pedralbes.
 * 🌱 **Learning:** I'm currently focused on containerization (Podman/Kubernetes) and deepening my cloud knowledge.
 * 🛠️ **Tools:** my go-tos are Python and Bash. I'm also comfortable with web tech (HTML/CSS/PHP) and will deal (sigh, and struggle) with PowerShell when needed.
 * 🤝 **Collaboration:** I'm keen to contribute to open-source projects.
@@ -47,12 +47,17 @@ Here there will be a couple of projects I'm proud of.
 #### 1. [ecommerce-cibermur-inspedralbes]
 * **Repository:** `[https://github.com/SamG05Z/...]`
 * **Description:** an ecommerce for homework.
-* **Tech Used:** `Podman`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`
+* **Tech Used:** `Docker`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`
 
 #### 2. [pokédex-inspedralbes]
 * **Repository:** `[https://github.com/SamG05Z/...]`
 * **Description:** a pokédex for homework.
-* **Tech Used:** `JavaScript`, `PHP`, `MySQL`, `HTML`, `CSS`.
+* **Tech Used:** `JavaScript`, `PHP`, `MariaDB`, `HTML`, `CSS`.
+
+#### 2. [cibermur-tfg]
+* **Repository:** `[https://github.com/cibermur-systems/...]`
+* **Description:** my TFG for the CFGS.
+* **Tech Used:** `Python (FastAPI)`, `TypeScript (React)`, `Proxmox`, `Terraform`, `Ansible`, `Podman`, `ArgoCD`, `Caddy`, `Coraza`, `OPNsense`, `Crowdsec`, `Bash`, `Valkey`, `PostgreSQL/CNPG`, `TailwindCSS`.
 
 ### 📫 Let's Connect
 
