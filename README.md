@@ -4,7 +4,7 @@
 
 I'm a **sysadmin & cybersecurity student**.
 
-* 💼 **Not Working right now:** considering diving into infrastructure, IaC, and basically EaC.
+* 💼 **Working at Fractalia:** help desk, for now.
 * 🎓 **Just Finished Studying:** I'm just completed my ASIX (Sysadmin) & Cybersecurity program at Institut Pedralbes.
 * 🌱 **Learning:** I'm currently focused on containerization (Podman/Kubernetes) and deepening my cloud knowledge.
 * 🛠️ **Tools:** my go-tos are Python and Bash. I'm also comfortable with web tech (HTML/CSS/PHP) and will deal (sigh, and struggle) with PowerShell when needed.
