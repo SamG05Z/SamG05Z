@@ -55,8 +55,8 @@ Here there will be a couple of projects I'm proud of.
 * **Description:** a pokédex for homework.
 * **Tech Used:** `JavaScript`, `PHP`, `MariaDB`, `HTML`, `CSS`.
 
-#### 2. [cibermur-tfg]
-* **Repository:** `[https://github.com/cibermur-systems/cfgs-tfg-sampev]`
+#### 3. [tfg-cibermur]
+* **Repository:** `[https://github.com/cibermur-systems/tfg-cfgs-sampev]`
 * **Description:** my TFG for the CFGS.
 * **Tech Used:** `Python (FastAPI)`, `TypeScript (React)`, `Proxmox`, `Terraform`, `Ansible`, `Podman`, `ArgoCD`, `Caddy`, `Coraza`, `OPNsense`, `Crowdsec`, `Bash`, `Valkey`, `PostgreSQL/CNPG`, `TailwindCSS`.
 
