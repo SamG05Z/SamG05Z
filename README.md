@@ -45,18 +45,18 @@ Here are a few of the technologies I work with:
 
 Here there will be a couple of projects I'm proud of.
 
-#### 1. [ecommerce-inspedralbes]
-* **Repository:** `[https://github.com/SamG05Z/ecommerce-inspedralbes]`
+#### 1. E-commerce Inspedralbes
+* **Repository:** [https://github.com/samg05z/ecommerce-inspedralbes](https://github.com/samg05z/ecommerce-inspedralbes)
 * **Description:** an ecommerce for homework.
 * **Tech Used:** `Docker`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`
 
-#### 2. [pokédex-inspedralbes]
-* **Repository:** `[https://github.com/SamG05Z/pokedex-inspedralbes]`
+#### 2. Pokédex Inspedralbes
+* **Repository:** [https://github.com/samg05z/pokedex-inspedralbes](https://github.com/samg05z/pokedex-inspedralbes)
 * **Description:** a pokédex for homework.
 * **Tech Used:** `JavaScript`, `PHP`, `MariaDB`, `HTML`, `CSS`.
 
-#### 3. [tfg-cibermur]
-* **Repository:** `[https://github.com/cibermur-systems/tfg-cfgs-sampev]`
+#### 3. TFG Cibermur
+* **Repository:** [https://github.com/cibermur-systems/tfg-cfgs-sampev](https://github.com/cibermur-systems/tfg-cfgs-sampev)
 * **Description:** my TFG for the CFGS.
 * **Tech Used:** `Python (FastAPI)`, `TypeScript (React)`, `Proxmox`, `Terraform`, `Ansible`, `Podman`, `ArgoCD`, `Caddy`, `Coraza`, `OPNsense`, `Crowdsec`, `Bash`, `Valkey`, `PostgreSQL/CNPG`, `TailwindCSS`.
 
