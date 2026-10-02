@@ -9,6 +9,7 @@ I'm a **sysadmin & cybersecurity student**.
 * 🌱 **Learning:** I'm currently focused on containerization (Podman/Kubernetes) and deepening my cloud knowledge.
 * 🛠️ **Tools:** my go-tos are Python and Bash. I'm also comfortable with web tech (HTML/CSS/PHP) and will deal (sigh, and struggle) with PowerShell when needed.
 * 🤝 **Collaboration:** I'm keen to contribute to open-source projects.
+* 🤠️💙️ I use Fedora, btw.
 
 ### 💻 My Tech Stack & Stats
 
@@ -44,18 +45,18 @@ Here are a few of the technologies I work with:
 
 Here there will be a couple of projects I'm proud of.
 
-#### 1. [ecommerce-cibermur-inspedralbes]
-* **Repository:** `[https://github.com/SamG05Z/...]`
+#### 1. [ecommerce-inspedralbes]
+* **Repository:** `[https://github.com/SamG05Z/ecommerce-inspedralbes]`
 * **Description:** an ecommerce for homework.
 * **Tech Used:** `Docker`, `Bash Scripting`, `MariaDB`, `PHP`, `JavaScript`
 
 #### 2. [pokédex-inspedralbes]
-* **Repository:** `[https://github.com/SamG05Z/...]`
+* **Repository:** `[https://github.com/SamG05Z/pokedex-inspedralbes]`
 * **Description:** a pokédex for homework.
 * **Tech Used:** `JavaScript`, `PHP`, `MariaDB`, `HTML`, `CSS`.
 
 #### 2. [cibermur-tfg]
-* **Repository:** `[https://github.com/cibermur-systems/...]`
+* **Repository:** `[https://github.com/cibermur-systems/cfgs-tfg-sampev]`
 * **Description:** my TFG for the CFGS.
 * **Tech Used:** `Python (FastAPI)`, `TypeScript (React)`, `Proxmox`, `Terraform`, `Ansible`, `Podman`, `ArgoCD`, `Caddy`, `Coraza`, `OPNsense`, `Crowdsec`, `Bash`, `Valkey`, `PostgreSQL/CNPG`, `TailwindCSS`.
 
@@ -64,7 +65,7 @@ Here there will be a couple of projects I'm proud of.
 I'm always open to collaborating or just chatting about tech.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samg05x/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/samuel-arteaga-guerrero/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="150" height="150" alt="LinkedIn" />
   </a>
   <a href="mailto:samuel.arteagako@proton.me" target="_blank" rel="noreferrer">
